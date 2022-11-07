@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+h1{
+    text-align: center;
+}
+
+p{
+    color: rgb(159, 84, 19);
+    text-align: center;
+}
+
+ul{
+    font-weight: 1000;
+}
+
+table{
+    font-weight: 900;
+    text-align: center;
+}
